@@ -1,10 +1,7 @@
-# React-based custom panel starter kit for Home Assistant
+# React-based custom panel for Home Assistant
 
-This project will help you get started with building a custom panel for Home Assistant using the React framework.
+Forked from https://github.com/home-assistant/custom-panel-starter-kit-react
 
-## :rotating_light: DEPRECATED
-
-This repository is deprecated, unmaintained and archived.
 
 ## Getting started
 
